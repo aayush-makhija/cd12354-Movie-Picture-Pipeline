@@ -1,0 +1,60 @@
+Script started on Mon Sep  7 17:42:46 2026
+[1m[32m                     [32m..'
+                 ,xNMM.
+               .OMMMMo
+               lMM"
+     .;loddo:.  .olloddol;.
+   cKMMMMMMMMMMNWMMMMMMMMMM0:
+ [33m.KMMMMMMMMMMMMMMMMMMMMMMMWd.
+ XMMMMMMMMMMMMMMMMMMMMMMMX.
+[31m;MMMMMMMMMMMMMMMMMMMMMMMM:
+:MMMMMMMMMMMMMMMMMMMMMMMM:
+.MMMMMMMMMMMMMMMMMMMMMMMMX.
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.
+ [35m'XMMMMMMMMMMMMMMMMMMMMMMMMMMk
+  'XMMMMMMMMMMMMMMMMMMMMMMMMK.
+    [34mkMMMMMMMMMMMMMMMMMMMMMMd
+     ;KMMMMMMMWXXWMMMMMMMk.
+       "cooc*"    "*coo'"[m[1G[16A[m[?7l[34C[m[1m[32maayush[m@[1m[32mAayushs-MacBook-Pro[m
+[34C--------------------------
+[34C[m[1m[33mOS[m: [mmacOS Tahoe 26.6.2 arm64
+[34C[m[1m[33mHost[m: [mMacBook Pro (14-inch, 2024, Three Thunderbolt 4 ports)
+[34C[m[1m[33mKernel[m: [mDarwin 25.6.0
+[34C[m[1m[33mUptime[m: [m3 days, 6 hours, 13 mins
+[34C[m[1m[33mPackages[m: [m104 (brew), 4 (brew-cask)
+[34C[m[1m[33mShell[m: [mzsh 5.9
+[34C[m[1m[33mDisplay (Color LCD)[m: [m3600x2338 @ 2x in 14", 120 Hz [Built-in]
+[34C[m[1m[33mDE[m: [mLiquid Glass
+[34C[m[1m[33mWM[m: [mQuartz Compositor 341.6.1
+[34C[m[1m[33mWM Theme[m: [mGreen (Light)
+[34C[m[1m[33mFont[m: [m.AppleSystemUIFont [System], Helvetica [User]
+[34C[m[1m[33mCursor[m: [mFill - Black, Outline - White (32px)
+[34C[m[1m[33mTerminal[m: [mCode Helper 1.136.1
+[34C[m[1m[33mCPU[m: [mApple M4 (10) @ 4.46 GHz
+[34C[m[1m[33mGPU[m: [mApple M4 (10) @ 1.58 GHz [Integrated]
+[34C[m[1m[33mMemory[m: [m13.21 GiB / 16.00 GiB ([91m83%[m)
+[34C[m[1m[33mSwap[m: [m2.93 GiB / 4.00 GiB ([93m73%[m)
+[34C[m[1m[33mDisk (/)[m: [m308.43 GiB / 460.43 GiB ([93m67%[m) - apfs [Read-only]
+[34C[m[1m[33mLocal IP (en0)[m: [m192.168.1.24/24
+[34C[m[1m[33mBattery (bq40z651)[m: [m[93m25%[m (2 hours, 52 mins remaining) [Discharging]
+[34C[m[1m[33mLocale[m: [mC.UTF-8
+[34C
+[34C[m[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[34C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m
+[?7h[1m[7m%[27m[1m[0m                                                                                                                                                                                                                        ]2;aayush@Aayushs-MacBook-Pro:~/Documents/Accenture/Movie Picture Pipeline/cd12354-Movie-Picture-Pipeline/starter]1;..eline/starter]7;file://Aayushs-MacBook-Pro.local/Users/aayush/Documents/Accenture/Movie%20Picture%20Pipeline/cd12354-Movie-Picture-Pipeline/starter\[0m[27m[24m[J(base) [01;32m➜  [36mstarter[00m [K[?1h=[?2004h[0m[27m[24m[J(base) [01;32m➜  [36mstarter[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[7mkubectl get nodes[27m
+[7mkubectl get pods[27m[K
+[7mkubectl get svc[27m[K
+[7mcurl http://aa8ea9a1575fd4c34a8005b5d702182a-1050535738.us-east-1.elb.amazonaws.com/movies[27m[K
+[7mexit[27m[K[4A[27C[27mk[27mu[27mb[27me[27mc[27mt[27ml[27m [27mg[27me[27mt[27m [27mn[27mo[27md[27me[27ms[1B[27mk[27mu[27mb[27me[27mc[27mt[27ml[27m [27mg[27me[27mt[27m [27mp[27mo[27md[27ms[1B[27mk[27mu[27mb[27me[27mc[27mt[27ml[27m [27mg[27me[27mt[27m [27ms[27mv[27mc[1B[27mc[27mu[27mr[27ml[27m [27mh[27mt[27mt[27mp[27m:[27m/[27m/[27ma[27ma[27m8[27me[27ma[27m9[27ma[27m1[27m5[27m7[27m5[27mf[27md[27m4[27mc[27m3[27m4[27ma[27m8[27m0[27m0[27m5[27mb[27m5[27md[27m7[27m0[27m2[27m1[27m8[27m2[27ma[27m-[27m1[27m0[27m5[27m0[27m5[27m3[27m5[27m7[27m3[27m8[27m.[27mu[27ms[27m-[27me[27ma[27ms[27mt[27m-[27m1[27m.[27me[27ml[27mb[27m.[27ma[27mm[27ma[27mz[27mo[27mn[27ma[27mw[27ms[27m.[27mc[27mo[27mm[27m/[27mm[27mo[27mv[27mi[27me[27ms[1B[27me[27mx[27mi[27mt[?1l>[?2004l
+]2;kubectl get nodes; kubectl get pods; kubectl get svc; curl ; exit]1;kubectlNAME                         STATUS   ROLES    AGE   VERSION
+ip-10-0-1-254.ec2.internal   Ready    <none>   76m   v1.31.14-eks-cb19647
+NAME                        READY   STATUS    RESTARTS   AGE
+backend-967854464-ss2tz     1/1     Running   0          41m
+frontend-57d895b685-c7ndf   1/1     Running   0          13m
+NAME         TYPE           CLUSTER-IP     EXTERNAL-IP                                                               PORT(S)        AGE
+backend      LoadBalancer   172.20.180.6   aa8ea9a1575fd4c34a8005b5d702182a-1050535738.us-east-1.elb.amazonaws.com   80:32244/TCP   51m
+frontend     LoadBalancer   172.20.44.80   a860f562b602c47bead49f65492e25c4-130744171.us-east-1.elb.amazonaws.com    80:30973/TCP   32m
+kubernetes   ClusterIP      172.20.0.1     <none>                                                                    443/TCP        4h32m
+{"movies":[{"id":"123","title":"Top Gun: Maverick"},{"id":"456","title":"Sonic the Hedgehog"},{"id":"789","title":"A Quiet Place"}]}
+
+Script done on Mon Sep  7 17:42:58 2026

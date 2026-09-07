@@ -1,0 +1,14 @@
+=== NODES ===
+NAME                         STATUS   ROLES    AGE   VERSION
+ip-10-0-1-254.ec2.internal   Ready    <none>   74m   v1.31.14-eks-cb19647
+
+=== PODS ===
+NAME                        READY   STATUS    RESTARTS   AGE
+backend-967854464-ss2tz     1/1     Running   0          39m
+frontend-57d895b685-c7ndf   1/1     Running   0          11m
+
+=== SERVICES ===
+NAME         TYPE           CLUSTER-IP     EXTERNAL-IP                                                               PORT(S)        AGE
+backend      LoadBalancer   172.20.180.6   aa8ea9a1575fd4c34a8005b5d702182a-1050535738.us-east-1.elb.amazonaws.com   80:32244/TCP   50m
+frontend     LoadBalancer   172.20.44.80   a860f562b602c47bead49f65492e25c4-130744171.us-east-1.elb.amazonaws.com    80:30973/TCP   30m
+kubernetes   ClusterIP      172.20.0.1     <none>                                                                    443/TCP        4h30m
